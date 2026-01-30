@@ -1,0 +1,144 @@
+[
+  {
+    "id": "order1",
+    "userId": "1",
+    "orderNumber": "ORD-2023-001",
+    "date": "2023-02-15T14:30:00Z",
+    "total": 89990,
+    "subtotal": 89990,
+    "shippingCost": 0,
+    "tax": 0,
+    "status": "delivered",
+    "pay": "cash",
+    "items": [
+      {
+        "productId": "prod1",
+        "name": "Смартфон iPhone 14 Pro",
+        "quantity": 1,
+        "price": 89990,
+        "image": "https://example.com/products/iphone14-1.jpg",
+        "total": 89990
+      }
+    ],
+    "shippingAddress": {
+      "id": "addr1",
+      "title": "Дом",
+      "address": "ул. Пушкина, д. 10, кв. 25",
+      "city": "Москва",
+      "zipCode": "123456",
+      "phone": "+7 (999) 123-45-67",
+      "isDefault": true,
+      "country": "Россия"
+    },
+    "billingAddress": {
+      "id": "addr1",
+      "title": "Дом",
+      "address": "ул. Пушкина, д. 10, кв. 25",
+      "city": "Москва",
+      "zipCode": "123456",
+      "phone": "+7 (999) 123-45-67",
+      "isDefault": true,
+      "country": "Россия"
+    },
+    "paymentMethod": {
+      "id": "pm1",
+      "type": "card",
+      "name": "Основная карта",
+      "last4": "4242",
+      "expiry": "12/25",
+      "isDefault": true,
+      "provider": "Visa"
+    },
+    "trackingNumber": "TRK123456789",
+    "notes": "Оставьте у двери"
+  },
+  {
+    "id": "order2",
+    "userId": "1",
+    "orderNumber": "ORD-2023-002",
+    "date": "2023-03-10T11:20:00Z",
+    "total": 44980,
+    "subtotal": 29990,
+    "shippingCost": 0,
+    "tax": 0,
+    "status": "delivered",
+    "pay": "card",
+    "items": [
+      {
+        "productId": "prod3",
+        "name": "Наушники Sony WH-1000XM5",
+        "quantity": 1,
+        "price": 29990,
+        "image": "https://example.com/products/sony-headphones-1.jpg",
+        "total": 29990
+      },
+      {
+        "productId": "prod4",
+        "name": "Кроссовки Nike Air Max",
+        "quantity": 2,
+        "price": 7990,
+        "image": "https://example.com/products/nike-1.jpg",
+        "total": 15980
+      }
+    ],
+    "shippingAddress": {
+      "id": "addr1",
+      "title": "Дом",
+      "address": "ул. Пушкина, д. 10, кв. 25",
+      "city": "Москва",
+      "zipCode": "123456",
+      "phone": "+7 (999) 123-45-67",
+      "isDefault": true,
+      "country": "Россия"
+    },
+    "paymentMethod": {
+      "id": "pm1",
+      "type": "card",
+      "name": "Основная карта",
+      "last4": "4242",
+      "expiry": "12/25",
+      "isDefault": true,
+      "provider": "Visa"
+    },
+    "trackingNumber": "TRK987654321"
+  },
+  {
+    "id": "order3",
+    "userId": "2",
+    "orderNumber": "ORD-2023-003",
+    "date": "2023-04-05T16:45:00Z",
+    "total": 12500,
+    "subtotal": 11990,
+    "shippingCost": 510,
+    "tax": 0,
+    "status": "shipped",
+    "pay": "card",
+    "items": [
+      {
+        "productId": "prod2",
+        "name": "Ноутбук MacBook Air M2",
+        "quantity": 1,
+        "price": 119990,
+        "image": "https://example.com/products/macbook-1.jpg",
+        "total": 119990
+      }
+    ],
+    "shippingAddress": {
+      "id": "addr3",
+      "title": "Работа",
+      "address": "ул. Ленина, д. 25, офис 301",
+      "city": "Санкт-Петербург",
+      "zipCode": "654321",
+      "phone": "+7 (999) 987-65-43",
+      "isDefault": true,
+      "country": "Россия"
+    },
+    "paymentMethod": {
+      "id": "pm2",
+      "type": "paypal",
+      "name": "PayPal",
+      "isDefault": false
+    },
+    "trackingNumber": "TRK456789123"
+  }
+]

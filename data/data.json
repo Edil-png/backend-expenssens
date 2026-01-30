@@ -1,0 +1,122 @@
+{
+  "reviews": [
+    {
+      "id": "rev1",
+      "productId": "prod1",
+      "userId": "1",
+      "userName": "Александр Иванов",
+      "rating": 5,
+      "comment": "Отличный телефон! Камера просто супер, батарея держит долго.",
+      "date": "2023-02-20T10:15:00Z",
+      "verifiedPurchase": true,
+      "helpful": 24
+    },
+    {
+      "id": "rev2",
+      "productId": "prod1",
+      "userId": "2",
+      "userName": "Мария Петрова",
+      "rating": 4,
+      "comment": "Хороший телефон, но цена завышена. Камера отличная.",
+      "date": "2023-03-01T14:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 12
+    },
+    {
+      "id": "rev3",
+      "productId": "prod3",
+      "userId": "1",
+      "userName": "Александр Иванов",
+      "rating": 5,
+      "comment": "Лучшие наушники которые у меня были! Шумоподавление работает идеально.",
+      "date": "2023-03-15T09:45:00Z",
+      "verifiedPurchase": true,
+      "helpful": 31
+    }
+  ],
+  "shippingMethods": [
+    {
+      "id": "ship1",
+      "name": "Стандартная доставка",
+      "description": "Доставка за 5-7 рабочих дней",
+      "price": 0,
+      "estimatedDays": "5-7 дней"
+    },
+    {
+      "id": "ship2",
+      "name": "Экспресс доставка",
+      "description": "Доставка за 1-2 рабочих дня",
+      "price": 500,
+      "estimatedDays": "1-2 дня"
+    },
+    {
+      "id": "ship3",
+      "name": "Курьерская доставка",
+      "description": "Доставка курьером до двери",
+      "price": 300,
+      "estimatedDays": "3-5 дней"
+    }
+  ],
+  "promoCodes": [
+    {
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "minOrder": 1000,
+      "expiresAt": "2024-12-31T23:59:59Z"
+    },
+    {
+      "code": "FREESHIP",
+      "type": "shipping",
+      "value": 0,
+      "minOrder": 5000,
+      "expiresAt": "2024-06-30T23:59:59Z"
+    },
+    {
+      "code": "SAVE1000",
+      "type": "fixed",
+      "value": 1000,
+      "minOrder": 5000,
+      "expiresAt": "2024-03-31T23:59:59Z"
+    }
+  ],
+  "cartItems": {
+    "1": [
+      {
+        "id": "cart1",
+        "productId": "prod6",
+        "name": "Умные часы Apple Watch Series 8",
+        "price": 42990,
+        "quantity": 1,
+        "category": "electronics",
+        "image": "https://example.com/products/apple-watch-1.jpg",
+        "maxStock": 15
+      },
+      {
+        "id": "cart2",
+        "productId": "prod8",
+        "name": "Рюкзак для ноутбука",
+        "price": 3490,
+        "quantity": 2,
+        "category": "accessories",
+        "image": "https://example.com/products/backpack-1.jpg",
+        "maxStock": 25
+      }
+    ],
+    "2": [
+      {
+        "id": "cart3",
+        "productId": "prod5",
+        "name": "Книга 'Чистый код'",
+        "price": 1490,
+        "quantity": 1,
+        "category": "books",
+        "image": "https://example.com/products/clean-code.jpg",
+        "maxStock": 0
+      }
+    ],
+    "mktchigmblx1e2rarsm": [],
+    "mktcichyo2kbl5seg5l": [],
+    "mktwqja2s0npzk2s3z9": []
+  }
+}

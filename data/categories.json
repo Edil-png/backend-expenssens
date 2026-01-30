@@ -1,0 +1,202 @@
+[
+  {
+    "id": "cat1",
+    "name": "Электроника",
+    "description": "Смартфоны, ноутбуки, наушники и другая электроника",
+    "slug": "electronics",
+    "count": 4,
+    "image": "data:image/png;base64,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"
+  },
+  {
+    "id": "cat2",
+    "name": "Одежда и обувь",
+    "description": "Одежда, обувь и аксессуары",
+    "slug": "clothing",
+    "count": 1,
+    "image": "data:image/png;base64,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"
+  },
+  {
+    "id": "cat3",
+    "name": "Книги",
+    "description": "Художественная и профессиональная литература",
+    "slug": "books",
+    "count": 1,
+    "image": "data:image/png;base64,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"
+  },
+  {
+    "id": "cat4",
+    "name": "Для дома",
+    "description": "Техника и товары для дома",
+    "slug": "home",
+    "count": 1,
+    "image": "data:image/png;base64,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"
+  },
+  {
+    "id": "cat5",
+    "name": "Аксессуары",
+    "description": "Сумки, рюкзаки и другие аксессуары",
+    "slug": "accessories",
+    "count": 1,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAeFBMVEX///8AAADb29vl5eUkJCSFhYV9fX3Kysrh4eFRUVFLS0tWVlaxsbH19fVdXV23t7eOjo4+Pj7CwsIwMDDp6enU1NSWlpaqqqq+vr7w8PBFRUWsrKw2NjYVFRUPDw8bGxtubm5lZWWdnZ13d3crKyttbW2SkpIhISF9XNblAAAF6ElEQVR4nO2daXuqMBBGRepWxa241tal2///h/dSARMtMEMmxPi850urzcIpECBMklYLAAAAANVE7dr0XW87hclPYMJH5FqgioORX8LGtUI5J2PB4Nm1QznmgkHQdi1RxlzC8OTaooyVhOGHa4syRAyHri3KeIUhDGHoHM1w90xn66XhmpEx9tJwwsjYh+G9MIJhETC8G2BYCAypRJv4lo1g349Lw/6oO3sLCnjbfaxE+g7cGa4oXXzf5jvTleGicOddseSXrTNxY8joHjJtxtwYLuiCQXDklq7jxpAjyHvkucWJ4QfP8J1ZvI4LwzhgMueVr+PCsHPZOx+rdb8f31wSNv3FZDnIkx145eu4MMzzTcvTtbN0b7zydRwY5hteeX5Ns5Qmb7ccGObd7BW7sNVaZyl7rAp0HBjmLWnagMSr8PdntFqcv1iP0pS9LOXothQyDgzzfsj492P0/7ffpmaf7qtlEHTOKfMbA5NbNweGT1m2cxM6T4/CMEjNZkHwck6ZG3ZYFeislQ1tyDDLlTY08/R4TQy7yRd/GHZZFeg0bxhluT7PnymGJi8oHRqmGiWGeUtjcvPth+GAU8EVfhiaRHvAsBAYFgJDaUOtSwiGKo9vGHphuOn1lqrhd4+O2pW8XfQW92i4mAWSfN+d4eivzTRhfGeG7C69amhP4o0ZMntlKbzclyH13Q8HUpdYY4YWBAPS0ASvDUmdfjB8XMP+wxomnfxh+v0q+WKcX1ofxLDVOYu1JqlY+PQZiht2a9N5MjYsRtCwTgEpw4c3HMCwsOZqw4V3hvFoOp3m77j3y2k53/nAwc//SU/cGDAHhp3AjC3vVXDzhoPAGFaUW+OGEmNXWG/ZGjd8ETBkbWjThlEgAWfoeNOGGxFDTlAGDGF4/4bv7gxPYZ9FPCDVcEeG7AincZ6VE4fZtKFytTAw5IQL+2nIeTvmpyEnKwypNGu4YuSCIZVmDTmzqMCQCgwzZAw54dB+GlLDIRJgSKVZw8ohGgqPb6hFKnCrVGjWkDMsAYZUYJgBwzIuhpxufT8NOYNn/DQ8MHL5acgZHgRDKs0aEqN0f/HTkBMzv/fSkDOIzU9DTtiJn4ZbRi4/DWeMXH4a7hi5/DSkDQc446fhJyOXn4ZPjFx+Gv4wcj2+oTYfHLdKhfs1VOOzTQzVIX73dR5qgw8NJih8pxZzudV/5dZxiSXn3NNoC3fUX9xAHQ6cTjhTwKx+bbs8K6cXQxsey7nM6EzVYkoDXC//0gO3knq7oqduWu2JmLSYyvJm4LIYCudkSlAGVdOHG1/He3IrzRirhRxKk7brbWdLO9xY+fSw63rzFGnHaFULckn4xavlkpE3E89V3HWdxkYXLG9otFB91ipRynhe3s6/DkvmK471Aqqev5Vml/MQNKqXLaF7pTiu2AdX3KzfUhlVp5wXB3I16mRk3Bkib2Naj3PimI2oN73JvK/Mpc7LSn0BoV7UOJf7M6ZjWHQIgZHqYT2kjA5pq6to8M7eM5KClJ5MfZaDTsVZEc2HWnpOlEKGyHJWKaQBO1dLoP0Mj+MCjsPdVQX8YzTh9myqC/GmaFxdUgF1p9odVhdNgvxAVHtsEK+hVxAYUBZwgiKjp+rSRAVl9iIn+jq6Pr8o/BgI3l74+TBvpI/sCjjv1P5iXV1FGczb6BZ/NTtOYPDfRMf6fp91nizjbXXBOV8ii4C2a7bis7oTwveoLdxXKOGXEC731dXpvE9NlsptE+4ZtyvZdWrjyfL4PFPQjyX1L4PjcmLUvP0Svn6PzxVqnbe7pOph92QyxTUVqT7VSrR7qyYX323MUDtixc48AjAUA4bWgKEYMLQGDMWAoTVgKAYMrQFDMWBoDRiKAUNrwFAMGFoDhmLA0BowFAOG1oChGDC0BgzFgKE1YCgGDK0BQzFgaA0YigFDa8BQDBhaA4ZiwNAaMBQDhtaAoRgwtAYMxYChNWAoBgytAUMxYGgNGIoBQ2vAUAxnhkFThl1Xhm0VmxXFTVUEAAAAPC7/AI1Rd4to8nAlAAAAAElFTkSuQmCC"
+  },
+  {
+    "id": "cat6",
+    "name": "Красота и здоровье",
+    "description": "Косметика, парфюмерия и средства личной гигиены",
+    "slug": "beauty-and-health",
+    "count": 0,
+    "image": "data:image/png;base64,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"
+  },
+  {
+    "id": "cat7",
+    "name": "Спорт и отдых",
+    "description": "Тренажеры, спортивная одежда и товары для активного отдыха",
+    "slug": "sports",
+    "count": 0,
+    "image": "https://example.com/categories/sports.jpg"
+  },
+  {
+    "id": "cat8",
+    "name": "Детские товары",
+    "description": "Игрушки, одежда для детей и товары для мам",
+    "slug": "kids",
+    "count": 0,
+    "image": "https://example.com/categories/kids.jpg"
+  },
+  {
+    "id": "cat9",
+    "name": "Автотовары",
+    "description": "Запчасти, аксессуары и электроника для автомобиля",
+    "slug": "auto",
+    "count": 0,
+    "image": "https://example.com/categories/auto.jpg"
+  },
+  {
+    "id": "cat10",
+    "name": "Зоотовары",
+    "description": "Корма, игрушки и аксессуары для домашних животных",
+    "slug": "pets",
+    "count": 0,
+    "image": "https://example.com/categories/pets.jpg"
+  },
+  {
+    "id": "cat11",
+    "name": "Строительство и ремонт",
+    "description": "Инструменты, стройматериалы и сантехника",
+    "slug": "construction",
+    "count": 0,
+    "image": "https://example.com/categories/construction.jpg"
+  },
+  {
+    "id": "cat12",
+    "name": "Дача, сад и огород",
+    "description": "Садовая техника, растения и мебель для отдыха",
+    "slug": "garden",
+    "count": 0,
+    "image": "https://example.com/categories/garden.jpg"
+  },
+  {
+    "id": "cat13",
+    "name": "Продукты питания",
+    "description": "Напитки, бакалея и деликатесы с доставкой",
+    "slug": "grocery",
+    "count": 0,
+    "image": "https://example.com/categories/grocery.jpg"
+  },
+  {
+    "id": "cat14",
+    "name": "Канцтовары и офис",
+    "description": "Бумага, письменные принадлежности и офисная мебель",
+    "slug": "office",
+    "count": 0,
+    "image": "https://example.com/categories/office.jpg"
+  },
+  {
+    "id": "cat15",
+    "name": "Хобби и творчество",
+    "description": "Наборы для рисования, лепки и настольные игры",
+    "slug": "hobbies",
+    "count": 0,
+    "image": "https://example.com/categories/hobbies.jpg"
+  },
+  {
+    "id": "cat16",
+    "name": "Цифровые товары",
+    "description": "Подписки, игровые ключи и электронные сертификаты",
+    "slug": "digital",
+    "count": 0,
+    "image": "https://example.com/categories/digital.jpg"
+  },
+  {
+    "id": "cat17",
+    "name": "Бытовая техника",
+    "description": "Холодильники, стиральные машины и плиты",
+    "slug": "appliances",
+    "count": 0,
+    "image": "https://example.com/categories/appliances.jpg"
+  },
+  {
+    "id": "cat18",
+    "name": "Мебель",
+    "description": "Шкафы, кровати, диваны и кухонные гарнитуры",
+    "slug": "furniture",
+    "count": 0,
+    "image": "https://example.com/categories/furniture.jpg"
+  },
+  {
+    "id": "cat19",
+    "name": "Ювелирные изделия",
+    "description": "Украшения из золота, серебра и драгоценных камней",
+    "slug": "jewelry",
+    "count": 0,
+    "image": "https://example.com/categories/jewelry.jpg"
+  },
+  {
+    "id": "cat20",
+    "name": "Аптека",
+    "description": "Витамины, БАДы и медицинские изделия",
+    "slug": "pharmacy",
+    "count": 0,
+    "image": "https://example.com/categories/pharmacy.jpg"
+  },
+  {
+    "id": "cat21",
+    "name": "Музыкальные инструменты",
+    "description": "Гитары, клавишные, микрофоны и звуковое оборудование",
+    "slug": "music",
+    "count": 0,
+    "image": "https://example.com/categories/music.jpg"
+  },
+  {
+    "id": "cat22",
+    "name": "Антиквариат и коллекционирование",
+    "description": "Редкие вещи, монеты, марки и предметы искусства",
+    "slug": "antiques",
+    "count": 0,
+    "image": "https://example.com/categories/antiques.jpg"
+  },
+  {
+    "id": "cat23",
+    "name": "Товары для взрослых",
+    "description": "Интимные товары и аксессуары 18+",
+    "slug": "adult",
+    "count": 0,
+    "image": "https://example.com/categories/adult.jpg"
+  },
+  {
+    "id": "cat24",
+    "name": "Подарки и цветы",
+    "description": "Букеты, подарочные наборы и открытки",
+    "slug": "gifts",
+    "count": 0,
+    "image": "https://example.com/categories/gifts.jpg"
+  },
+  {
+    "id": "cat25",
+    "name": "Услуги",
+    "description": "Установка техники, сборка мебели и клининг",
+    "slug": "services",
+    "count": 0,
+    "image": "https://example.com/categories/services.jpg"
+  }
+]

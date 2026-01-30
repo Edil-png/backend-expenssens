@@ -1,0 +1,209 @@
+[
+  {
+    "id": "2",
+    "status": "block",
+    "name": "Мария Петрова",
+    "email": "ma@gmail.com",
+    "password": "12345678a",
+    "isAdmin": true,
+    "avatar": "https://example.com/avatars/maria.jpg",
+    "phone": "+7 (999) 987-65-43",
+    "addresses": [
+      {
+        "id": "addr3",
+        "title": "Работа",
+        "address": "ул. Ленина, д. 25, офис 301",
+        "city": "Санкт-Петербург",
+        "zipCode": "654321",
+        "phone": "+7 (999) 987-65-43",
+        "isDefault": true,
+        "country": "Россия"
+      }
+    ],
+    "defaultAddressId": "addr3",
+    "paymentMethods": [],
+    "wishlist": [
+      "prod5",
+      "prod7",
+      "prod8",
+      "prod12"
+    ],
+    "recentlyViewed": [
+      "prod6",
+      "prod9"
+    ],
+    "emailVerified": true,
+    "createdAt": "2023-03-22T09:15:00Z",
+    "lastLogin": "2026-01-30T13:31:42.007Z",
+    "preferences": {
+      "newsletter": false,
+      "marketingEmails": false,
+      "language": "ru",
+      "currency": "RUB"
+    },
+    "role": "customer",
+    "ordersCount": 2,
+    "totalSpent": 12500
+  },
+  {
+    "id": "2",
+    "status": "block",
+    "name": "Мария Петрова",
+    "email": "maria@example.com",
+    "password": "securepass456",
+    "isAdmin": true,
+    "avatar": "https://example.com/avatars/maria.jpg",
+    "phone": "+7 (999) 987-65-43",
+    "addresses": [
+      {
+        "id": "addr3",
+        "title": "Работа",
+        "address": "ул. Ленина, д. 25, офис 301",
+        "city": "Санкт-Петербург",
+        "zipCode": "654321",
+        "phone": "+7 (999) 987-65-43",
+        "isDefault": true,
+        "country": "Россия"
+      }
+    ],
+    "defaultAddressId": "addr3",
+    "paymentMethods": [],
+    "wishlist": [
+      "prod5",
+      "prod7",
+      "prod8",
+      "prod12"
+    ],
+    "recentlyViewed": [
+      "prod6",
+      "prod9"
+    ],
+    "emailVerified": true,
+    "createdAt": "2023-03-22T09:15:00Z",
+    "lastLogin": "2026-01-30T13:29:50.084Z",
+    "preferences": {
+      "newsletter": false,
+      "marketingEmails": false,
+      "language": "ru",
+      "currency": "RUB"
+    },
+    "role": "customer",
+    "ordersCount": 2,
+    "totalSpent": 12500
+  },
+  {
+    "id": "3",
+    "name": "Администратор",
+    "email": "admin@store.com",
+    "password": "admin123",
+    "phone": "+7 (999) 111-22-33",
+    "addresses": [],
+    "paymentMethods": [],
+    "wishlist": [],
+    "recentlyViewed": [],
+    "emailVerified": true,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "lastLogin": "2024-01-19T10:15:00Z",
+    "preferences": {
+      "newsletter": false,
+      "marketingEmails": false,
+      "language": "ru",
+      "currency": "RUB"
+    },
+    "role": "admin",
+    "ordersCount": 0,
+    "totalSpent": 0
+  },
+  {
+    "id": "mktchigmblx1e2rarsm",
+    "email": "asd@asd",
+    "password": "dasdasdasda",
+    "name": "asd",
+    "addresses": [],
+    "paymentMethods": [],
+    "wishlist": [],
+    "recentlyViewed": [],
+    "emailVerified": false,
+    "createdAt": "2026-01-25T06:15:48.406Z",
+    "preferences": {
+      "newsletter": true,
+      "marketingEmails": false,
+      "language": "ru",
+      "currency": "RUB"
+    },
+    "role": "customer",
+    "ordersCount": 0,
+    "totalSpent": 0
+  },
+  {
+    "id": "mktcichyo2kbl5seg5l",
+    "email": "hajdarov656@gmail.com",
+    "password": "asdassdaasd",
+    "name": "asd",
+    "addresses": [],
+    "paymentMethods": [],
+    "wishlist": [],
+    "recentlyViewed": [],
+    "emailVerified": false,
+    "createdAt": "2026-01-25T06:16:27.334Z",
+    "preferences": {
+      "newsletter": true,
+      "marketingEmails": false,
+      "language": "ru",
+      "currency": "RUB"
+    },
+    "role": "customer",
+    "ordersCount": 0,
+    "totalSpent": 0
+  },
+  {
+    "id": "ml0x20szj7lvq669ek",
+    "email": "Admin@gmail.com",
+    "password": "12345678q",
+    "name": "admin",
+    "avatar": "",
+    "phone": "",
+    "addresses": [],
+    "paymentMethods": [],
+    "wishlist": [],
+    "recentlyViewed": [],
+    "emailVerified": false,
+    "createdAt": "2026-01-30T13:26:00.851Z",
+    "lastLogin": "2026-01-30T13:26:00.851Z",
+    "preferences": {
+      "newsletter": true,
+      "marketingEmails": false,
+      "language": "ru",
+      "currency": "RUB"
+    },
+    "role": "customer",
+    "isAdmin": false,
+    "ordersCount": 0,
+    "totalSpent": 0
+  },
+  {
+    "id": "ml0x35lkptmusx4sfl",
+    "email": "a@g.com",
+    "password": "12345678",
+    "name": "a",
+    "avatar": "",
+    "phone": "",
+    "addresses": [],
+    "paymentMethods": [],
+    "wishlist": [],
+    "recentlyViewed": [],
+    "emailVerified": false,
+    "createdAt": "2026-01-30T13:26:53.720Z",
+    "lastLogin": "2026-01-30T13:26:53.720Z",
+    "preferences": {
+      "newsletter": true,
+      "marketingEmails": false,
+      "language": "ru",
+      "currency": "RUB"
+    },
+    "role": "customer",
+    "isAdmin": true,
+    "ordersCount": 0,
+    "totalSpent": 0
+  }
+]
